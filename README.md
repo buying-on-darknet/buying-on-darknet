@@ -127,3 +127,5 @@ A: Check independent forums (Dread, DarknetLive) for reviews
 3. Protection (using escrow and secure payment methods)
 
 By maintaining operational security and making informed purchasing decisions, you can navigate darknet markets successfully while minimizing risks.
+
+Update: Link is functioning properly
